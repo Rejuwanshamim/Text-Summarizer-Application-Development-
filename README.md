@@ -1,1 +1,10 @@
 # Text-Summarizer-Application-Development-
+The "Text Summarizer" application is designed to simplify the process of summarizing text from input files. With a user-friendly graphical interface, this application empowers users to efficiently extract the most important content from text documents, aiding in the rapid comprehension of lengthy materials. This tool harnesses the capabilities of the Python *tkinter* library to create an intuitive and visually pleasing platform for text summarization.
+
+Users begin by selecting a text file, typically in .txt format, that they wish to summarize. Once a file is chosen, the application deploys natural language processing techniques to analyze the text's contents. It identifies key sentences and extracts them to produce a concise, meaningful summary. This summarization process is aimed at simplifying the extraction of vital information from textual data, ultimately saving time and effort.
+
+In addition to generating summaries, the "Text Summarizer" application offers several additional features. Users can open selected text files directly using their system's default text editor, such as Notepad, facilitating the easy access and modification of the source content. An "About" button provides essential information about the application, including its version (2.0) and copyright notice (© 2023).
+
+A key functionality of this application is the ability to save the generated summary. Users can click "Save Summary" to export the summarized text to a new .txt file, enabling them to reference the distilled content at any time. The generated summary is prominently displayed in a text widget within the application's interface, ensuring that users have immediate access to the condensed information.
+
+The "Text Summarizer" is designed for compatibility with systems where the required Python libraries, including *tkinter* and Natural Language Processing modules, are installed. Overall, this application streamlines the process of comprehending voluminous textual data by automating the extraction of crucial content, making it an invaluable tool for efficient text summarization.
